@@ -8,12 +8,12 @@ const ContactPage = () => {
       <p className="mt-4">
         Welcome to our contact page! You can reach us at{" "}
         <a href="mailto:example@email.com" className="text-blue-500 font-semibold">
-          example@email.com
+          support@moviepicker.com
         </a>
         .
       </p>
       <div className="block mt-4 text-blue-500 font-semibold">
-        <Link href="/">Back to Home</Link>
+        <Link href="/">Home</Link>
       </div>
     </div>
   );
